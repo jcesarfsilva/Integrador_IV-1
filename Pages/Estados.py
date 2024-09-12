@@ -1,7 +1,5 @@
 import streamlit as st
-import pandas as pd
 from pandas import read_csv
-import numpy as np
 import plotly.figure_factory as ff
 # §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ #
 # configurações da página
