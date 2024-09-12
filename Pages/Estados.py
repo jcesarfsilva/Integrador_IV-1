@@ -3,9 +3,9 @@ import pandas as pd
 from pandas import read_csv
 import numpy as np
 # import plotly as plt
-import matplotlib.pyplot as plt
-import geopandas as gp
-import pydeck as pdk
+# import matplotlib.pyplot as plt
+# import geopandas as gp
+# import pydeck as pdk
 import plotly.figure_factory as ff
 # §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ #
 # configurações da página
