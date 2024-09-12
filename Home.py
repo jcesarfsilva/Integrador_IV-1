@@ -1,9 +1,4 @@
 import streamlit as st
-import pandas as pd
-from pandas import read_csv
-import numpy as np
-import geopandas as gp
-import pydeck as pdk
 
 # §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§ #
 # configurações da página
